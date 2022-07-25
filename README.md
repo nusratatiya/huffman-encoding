@@ -16,7 +16,7 @@ Through a greedy technique, this program can take any inputted String including 
     ```
     java -cp . Huffman
     ```
-(-cp allows you to tell java where to look for the compiled code, and . tells it to look in the current directory)
+    *(-cp allows you to tell java where to look for the compiled code, and . tells it to look in the        current directory)
 
 ## Authors
 Nusrat Atiya
